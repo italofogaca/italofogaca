@@ -1,12 +1,6 @@
 ## Hello World! Eu sou o Italo Fogaça.
 
 
-Here are some ideas to get you started:
-
-- 🔭 Hoje estou procurando estágio na área de Data Science 
-- 🌱 Estudando Python e SQL 
-- 😄 Pronouns: ele/dele
-
 
 <div align="center">
   <a href="https://github.com/italofogaca">
