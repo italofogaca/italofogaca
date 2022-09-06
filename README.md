@@ -12,7 +12,7 @@
   <img align="center" alt="Italo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Italo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg">        
   <img align="center" alt="Italo-Python" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
-  
+  <img align="center" alt="Italo-Python" height="30" width="40"  src="https://cdn.icon-icons.com/icons2/1508/PNG/512/rstudio_104598.png" />
 <div>
 
 ##
